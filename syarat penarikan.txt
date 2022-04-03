@@ -1,0 +1,5 @@
+<li>sudah verifikasi akun</li>
+                                <li>minimal penarikan Rp.50.000</li>
+                                <li>maksimal penarikan Rp.500.000</li>
+                                <li>estimasi penarikan saldo maksimal 2x24 jam</li>
+                                <li>Akun minimal 30 hari setelah verifikasi</li>
